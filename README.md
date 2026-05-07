@@ -1,6 +1,6 @@
-# Hi, I'm Abdullah 👋
+# Hi, I'm abdulkareem 👋
 
-I'm a **QA Engineer** based in Riyadh, Saudi Arabia — passionate about software quality, testing, and building reliable products.
+I'm a  based in Riyadh, Saudi Arabia — passionate about software quality, testing, and building reliable products.
 
 ---
 
@@ -9,7 +9,6 @@ I'm a **QA Engineer** based in Riyadh, Saudi Arabia — passionate about softwar
 | Project | Description | Tech |
 |--------|-------------|------|
 | [FinalProject](https://github.com/aaljaser/FinalProject) | Book, author & ISBN search engine | React Native, TypeScript |
-| [branding](https://github.com/aaljaser/branding) | Book Finder web app with animated UI | HTML, CSS |
 | [ang](https://github.com/aaljaser/ang) | Angular project | Angular |
 
 ---
